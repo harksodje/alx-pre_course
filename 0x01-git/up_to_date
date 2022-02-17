@@ -1,5 +1,5 @@
 # update the local repo
-`git fetch`
+`git fetch` // `git pull`
 # create update_to_date
 `cd update_to_date`
 # open the update_to_date
